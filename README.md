@@ -50,7 +50,7 @@
 * `START_MSG`: Welcome Message For Start Command Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/start_msg)
 * `CUSTOM_FILE_CAPTION` : A Custom Caption For Your Files. Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/file_caption.txt)
 * `PICS`: Telegraph Random Photo Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/photo.txt)
-* `DEV_NAME` : Developer Name
+* `DEV_NAME` : {A}{p}{p}{u}®{offline}®
 * `SPELL_MODE` : Seplling Mode On Or Off
 * `SPELL_MODE_TEXT` : Set Coutom Spelling Mode Text Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/spell_check.txt)
 
