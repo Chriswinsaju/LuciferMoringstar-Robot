@@ -2,22 +2,22 @@ class LuciferMoringstar(object):
 
     DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure I'm an Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
 
-    HELP_MSG = """**You can contact me @howtodoyt**"""
+    HELP_MSG = """**You can contact me @Sajuputhoor**"""
 
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [HOWTODO](t.me/howtodoyt)
+🧑 My Dev : [SajuPd(neelivayal)](t.me/howtodoyt)
 
-🧑 My Creator : {dev_name}
+🧑 My Creator : {{A}{p}{p}{u}®{offline}®}
 
-📦 My Source : [Click Here](https://github.com/bossstory/LuciferMoringstar-Robot)
+📦 My Source : [Click Here](https://t.me/Malayalmmovie45)
 
-📺 My Youtube : [Ckick Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
+📺 My Youtube : [Ckick Here](https://t.me/Malayalmmovie45)
 
-🏷️ My Updates : [HOW TO DO](t.me/HTDGROUPFORMOVIES)
+🏷️ My Updates : [HOW TO DO](https://t.me/Malayalmmovie45)
 
-🗣️ My Support : [Any Doubt](t.me/howtodoyt)"""
+🗣️ My Support : [Any Doubt](https://t.me/Sajuputhoor)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
